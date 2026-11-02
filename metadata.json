@@ -1,0 +1,7 @@
+{
+  "name": "ANIMATION STUDIO AI",
+  "description": "Plataforma profissional para transformar prompts em animações 2D/3D determinísticas e exportar vídeos MP4 reais com Three.js, GSAP e Gemini AI.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
